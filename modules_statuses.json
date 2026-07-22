@@ -1,0 +1,7 @@
+{
+    "User": true,
+    "Accounting": true,
+    "Capital": true,
+    "Trades": true,
+    "Queue": true
+}
